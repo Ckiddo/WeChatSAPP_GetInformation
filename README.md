@@ -1,0 +1,1 @@
+# WeChatSAPP_GetInformation
