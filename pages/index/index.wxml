@@ -1,0 +1,14 @@
+<view class="index">
+	<view class="index-hd">
+		<template is="head" data="{{title: '请输入以下内容'}}"></template>
+	</view>
+	<view class="input_colect">
+		<view class="input_section">
+			<view class="title">需要输入的内容1</view>
+			<view class="after_title">
+				<input class="input" placeholder="普通的输入框1"/>
+			</view>
+		</view>
+		<button bindtap='clickMe' type="primary">点击我</button>
+	</view>
+</view>
